@@ -1,5 +1,6 @@
 # Unit 19 React: Employee Directory
 
+
 The github repository is [here](https://github.com/JoseBurgos1993/employeedirectory). The deployed page can be located [here]().
 
 ## Table of Contents
@@ -10,13 +11,13 @@ The github repository is [here](https://github.com/JoseBurgos1993/employeedirect
 
 ## Usage
 
+
 ## License
 MIT License
 
 Copyright (c) 2020 Jose David Burgos
 
 ## Contributors
-
     Jose David Burgos ---- JoseBurgos1993
 
 ## Questions
