@@ -3,7 +3,7 @@ import "./style.css";
 
 function Sort(props) {
   return (
-    <button type="button" class="btn btn-warning" {...props} >Sort By Age</button>
+    <button type="button" className="btn btn-warning" {...props} >Sort By Age</button>
   );
 }
 

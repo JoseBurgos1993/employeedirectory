@@ -28,7 +28,7 @@ class Wrapper extends Component {
 
   filterList(gender){
     if(this.state.results){
-      this.setState({list: this.state.results.filter(person => person.gender == gender)});
+      this.setState({list: this.state.results.filter(person => person.gender === gender)});
     }
   };
 
@@ -43,7 +43,7 @@ class Wrapper extends Component {
             temp.splice(j,0,this.state.results[i]);
             break;
           }
-          if(j == temp.length - 1){
+          if(j === temp.length - 1){
             temp.push(this.state.results[[i]]);
             break;
           }

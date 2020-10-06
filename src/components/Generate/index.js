@@ -3,7 +3,7 @@ import "./style.css";
 
 function Generate(props) {
   return (
-    <button type="button" class="btn btn-danger" {...props}>Generate</button>
+    <button type="button" className="btn btn-danger" {...props}>Generate</button>
   );
 }
 

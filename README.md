@@ -1,5 +1,5 @@
 # Unit 19 React: Employee Directory
-
+For this project, I created an app that takes 20 randomly generated employees from the API [randomuser](https://randomuser.me/) and allows you to sort or filter them.
 
 The github repository is [here](https://github.com/JoseBurgos1993/employeedirectory). The deployed page can be located [here]().
 
@@ -10,7 +10,7 @@ The github repository is [here](https://github.com/JoseBurgos1993/employeedirect
 * [Questions](#questions)
 
 ## Usage
-
+First, click on the "Generate" button. This will generate a new list of 20 employees from the API. Next you may filter out males or females, or you may sort the crowd by age.
 
 ## License
 MIT License
