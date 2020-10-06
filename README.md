@@ -1,7 +1,7 @@
 # Unit 19 React: Employee Directory
 For this project, I created an app that takes 20 randomly generated employees from the API [randomuser](https://randomuser.me/) and allows you to sort or filter them.
 
-The github repository is [here](https://github.com/JoseBurgos1993/employeedirectory). The deployed page can be located [here]().
+The github repository is [here](https://github.com/JoseBurgos1993/employeedirectory). The deployed page can be located [here](https://joseburgos1993.github.io/employeedirectory/).
 
 ## Table of Contents
 * [Usage](#usage)
