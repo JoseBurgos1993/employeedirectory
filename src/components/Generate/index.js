@@ -1,9 +1,11 @@
 import React from "react";
 import "./style.css";
 
-function Generate() {
+function Generate(props) {
   return (
-    
+    <span className="generateBtn" {...props} role="button" tabIndex="0">
+      Generate
+    </span>
   );
 }
 

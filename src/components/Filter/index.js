@@ -3,6 +3,7 @@ import "./style.css";
 
 function Filter() {
   return (
+    <span>This is the filter</span>
     
   );
 }
